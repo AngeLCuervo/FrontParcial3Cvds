@@ -1,0 +1,1 @@
+// Aquí va el componente SpecialtyDetail
