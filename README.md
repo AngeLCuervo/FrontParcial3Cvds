@@ -1,6 +1,6 @@
 #  Clínica ECI Salud Vital - Frontend
 
-**Nombre del estudiante**: [Tu Nombre Aquí]  
+**Nombre del estudiante**: Angel cuervo
 **Grupo**: CVDS - Tercer Tercio  
 
 ##  Tecnologías Utilizadas
